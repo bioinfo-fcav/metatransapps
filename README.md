@@ -1,2 +1,2 @@
-# metatransapps
-Applications for Metatranscriptomics Data Analysis
+# MetaTransApps
+Applications for MetaTranscriptomics Data Analysis
